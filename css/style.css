@@ -1,0 +1,19 @@
+
+@font-face
+{
+	font-family:'Bangla';	
+	src:url('../fonts/SutonnyMJ.eot') format('embedded-opentype'),	
+	url('../fonts/SutonnyMJ.woff') format('woff'),
+	url('../fonts/SutonnyMJ.ttf') format('truetype'),
+	url('../fonts/SutonnyMJ.svg') format('svg');
+}	
+
+
+.content{
+	width: 100%;	
+}
+
+.content p{
+	font-family:'Bangla';	
+	font-size:13px;		
+}
